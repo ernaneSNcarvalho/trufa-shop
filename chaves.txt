@@ -1,0 +1,11 @@
+producao
+GN_CLIENT_ID=Client_Id_ed03e02193c00155342b86269c42f3617fa0581d
+GN_CLIENT_SECRET=Client_Secret_4addbf7d3dc2e246c4ec8ef5c3675ce44130094e
+GN_CERTIFICADO=producao.p12
+
+homologacao
+
+producao
+GN_CLIENT_ID=Client_Id_1a011bb34dbcfbcba491d159d5cee64f74eb9ab0
+GN_CLIENT_SECRET=Client_Secret_9a6aa61a635cf0e0cf57919234a385b056c1ba76
+GN_CERTIFICADO=developer.p12
